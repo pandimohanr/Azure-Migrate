@@ -1,1 +1,4 @@
 # Azure-Migrate
+Azure Migration Services and the associated Azure Migrate platform provide a central hub of integrated Microsoft and partner tools to help organizations migrate workloads to Azure. The service offers discovery and assessment, sizing, replication, and migration tools. 
+
+Organizations can use Azure Migrate to move virtualized and physical Windows and Linux workloads to Azure. Supported workloads include servers, databases, web applications, and virtual desktops. 
